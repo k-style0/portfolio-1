@@ -1,0 +1,65 @@
+* {
+  color: white;
+}
+
+.top-img {
+  background-image: url(images/siki.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.top-text {
+  text-align: center;
+  padding: 250px 0;
+}
+.top-text h1 {
+  font-size: 100px;
+}
+
+.feature-area {
+  background-image: url(images/haru.jpg);
+  padding: 180px 0;
+  background-size: cover;
+  text-align: center;
+}
+.feature-area h2 {
+  font-size: 80px;
+  margin-bottom: 40px;
+}
+
+.service-area {
+  background-color: black;
+  text-align: center;
+  padding: 50px;
+}
+.service-description {
+  padding: 30px;
+}
+
+.form-area {
+  background-image: url(images/fuyu.jpg);
+  padding: 20px;
+}
+.form-group {
+  width: 360px;
+}
+
+
+footer {
+  background-color: #333;
+  padding: 30px;
+}
+footer ul li {
+  list-style: none;
+}
+footer ul li a {
+  color: #aaa;
+  font-size: 13px;
+  text-decoration: none;
+}
+footer a:hover {
+  color: white;
+}
+footer p {
+  text-align: center;
+  color: #aaa;
+}
